@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rivier0ah
+- 👋 Hi, I’m [@rivier0ah](https://github.com/rivier0ah)
 - 👀 I’m interested in parallel computing and contract programming
 - 🌱 I’m currently learning Erlang
 - 💞️ I’ll contribute to projects if I'm able to, if only to hone my skills
